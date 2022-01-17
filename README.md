@@ -1,5 +1,6 @@
-### Hi there 👋 I'm a student who studying Full-stack developer.
-### "Stay hungry, stay foolish." I always think about it. 
+### Hi there 👋 
+I'm a student who studying Full-stack developer.
+"Stay hungry, stay foolish."😄 I always think about it. 
 
 <!--
 **akh981216/akh981216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
