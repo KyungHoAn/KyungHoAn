@@ -1,6 +1,6 @@
 ### Hi there 👋 
 #### I'm a student who studying Full-stack developer.🌱
-#### "Stay hungry, stay foolish."😄 I always think about it. 
+#### "Stay hungry, stay foolish."😄 I always think about it🐱‍👤.
 
 
 
