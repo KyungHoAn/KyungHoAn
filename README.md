@@ -1,8 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<div align=center>
+  
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Kyung%20Ho&fontSize=90" />
+
+
+  
 ### Hi there 👋 
 #### I'm a student who studying Full-stack developer.🌱
 #### "Stay hungry, stay foolish."😄 I always think about it🐱‍👤.
-
+  
+</div>
 
 
 
