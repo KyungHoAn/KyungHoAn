@@ -7,7 +7,13 @@
 ### Hi there 👋 
 #### I'm a student who studying Full-stack developer.🌱
 #### "Stay hungry, stay foolish."😄 I always think about it🐱‍👤.
+<br><br><br>
+💻 Tech Stack 💻
+  <br>
+<img src="https://img.shields.io/badge/Java-Green?style=flat-square&logo=Java&logoColor=white" /> 
 
+  
+<br>
   
 ![](https://readme-stickers.vercel.app/api/kodeveloper?name=KyungHo)
   
