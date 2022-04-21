@@ -1,6 +1,6 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=KyungHoAn😎&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=KyungHoAn😳&fontSize=70)
 <!--<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Kyung%20Ho&fontSize=90" />-->
 
 
