@@ -22,9 +22,9 @@
   
 <table>
   <tr>
-  <a href="https://github.com/KyungHoAn/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api?username=KyungHoAn&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>  
+  <a href="https://github.com/KyungHoAn/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api?username=KyungHoAn&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" width="40%" height="40%"/></a>  
   <a href="https://github.com/KyungHoAn/github-readme-stats">
-  <img align="top-right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyungHoAn&layout=compact&theme=buefy&hide_border=true" width="35%" height="35%"/></a>
+  <img align="top-right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyungHoAn&layout=compact&theme=buefy&hide_border=true" width="40%" height="40%"/></a>
   </br>
   </tr>
 </table>
