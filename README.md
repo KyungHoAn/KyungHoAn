@@ -24,12 +24,14 @@
   <tr>
   <a href="https://github.com/KyungHoAn/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api?username=KyungHoAn&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>  
   <a href="https://github.com/KyungHoAn/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyungHoAn&layout=compact&theme=buefy&hide_border=true" /></a>
+  <img align="top-right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyungHoAn&layout=compact&theme=buefy&hide_border=true" /></a>
   </br>
   </tr>
 </table>
 </br>
 </br>
+</br>
+
 ![](https://readme-stickers.vercel.app/api/kodeveloper?name=KyungHo)
   
 </div>
