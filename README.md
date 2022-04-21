@@ -11,6 +11,11 @@
 💻 Tech Stack 💻
   <br>
 <img src="https://img.shields.io/badge/Java-Green?style=flat-square&logo=Java&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Json-blue?style=flat-square&logo=Json&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Docker-red?style=flat-square&logo=Docker&logoColor=white" /> 
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white" /> </br>
+<img src="https://img.shields.io/badge/Apple-black?style=flat-square&logo=Apple&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle-purple?style=flat-square&logo=Oracle&logoColor=white" />
 
   
 <br>
