@@ -11,7 +11,7 @@
 <br><br><br>
 💻 Tech Stack 💻
   <br>
-<img src="https://img.shields.io/badge/Java-Green?style=flat-square&logo=Java&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Spring-Green?style=flat-square&logo=Spring&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Json-blue?style=flat-square&logo=Json&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Docker-red?style=flat-square&logo=Docker&logoColor=white" /> 
 <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white" /> </br>
@@ -19,6 +19,7 @@
 <img src="https://img.shields.io/badge/Oracle-purple?style=flat-square&logo=Oracle&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=HTML5&logoColor=white" />
 <img src="https://img.shields.io/badge/jQuery-skyblue?style=flat-square&logo=jQuery&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache Maven-gold?style=flat-square&logo=Apache Maven&logoColor=white" />
 
   
 <table>
