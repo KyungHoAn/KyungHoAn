@@ -11,16 +11,16 @@
 <br><br><br>
 💻 Tech Stack 💻
   <br>
-<img src="https://img.shields.io/badge/Spring-Green?style=flat-square&logo=Spring&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Json-blue?style=flat-square&logo=Json&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Spring Boot-Green?style=flat-square&logo=Spring Boot&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Docker-red?style=flat-square&logo=Docker&logoColor=white" /> 
-<img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white" /> </br>
-<img src="https://img.shields.io/badge/Apple-black?style=flat-square&logo=Apple&logoColor=white" />
-<img src="https://img.shields.io/badge/Oracle-purple?style=flat-square&logo=Oracle&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=HTML5&logoColor=white" />
-<img src="https://img.shields.io/badge/jQuery-skyblue?style=flat-square&logo=jQuery&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white" /> </br>
+<img src="https://img.shields.io/badge/Oracle-purple?style=flat-square&logo=Oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/MariaDB-informational?style=flat-square&logo=MariaDB&logoColor=white" />
 <img src="https://img.shields.io/badge/Apache Maven-gold?style=flat-square&logo=Apache Maven&logoColor=white" />
-
+<img src="https://img.shields.io/badge/Gradle-inactive?style=flat-square&logo=Gradle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-yellowgreen?style=flat-square&logo=Jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-blueviolet?style=flat-square&logo=React&logoColor=white"/></br>
   
 <table>
   <tr>
