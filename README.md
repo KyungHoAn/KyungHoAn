@@ -26,9 +26,10 @@
 <table>
   <tr>
     
-  ![KyungHo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyungHoAn&theme=gruvbox_light&show_icons=true)
   [![KyungHo](https://github-readme-stats.vercel.app/api/top-langs/?username=kyungHoAn&layout=compact)](https://github.com/kyungHoAn/github-readme-stats) 
-    
+  
+  ![KyungHo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyungHoAn&theme=gruvbox_light&show_icons=true)
+   
   </br>
   </tr>
 </table>
