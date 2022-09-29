@@ -22,24 +22,24 @@
 <img src="https://img.shields.io/badge/Jenkins-yellowgreen?style=flat-square&logo=Jenkins&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-blueviolet?style=flat-square&logo=React&logoColor=white"/></br>
   
-<table>
-  <tr>
-    
-  [![KyungHo](https://github-readme-stats.vercel.app/api/top-langs/?username=kyungHoAn&layout=compact)](https://github.com/kyungHoAn/github-readme-stats)
+
+[![KyungHo](https://github-readme-stats.vercel.app/api/top-langs/?username=kyungHoAn&layout=compact)](https://github.com/kyungHoAn/github-readme-stats)
+
   
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=kyungHoAn&theme=material-palenight)](https://git.io/streak-stats)![KyungHo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyungHoAn&theme=material-palenight&show_icons=true)
-  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=KyungHoAn&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0" width=49.2% /></a>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kyungHoAn&theme=material-palenight)](https://git.io/streak-stats)
+
+
   [![KyungHo's github activity graph](https://activity-graph.herokuapp.com/graph?username=KyunghoAn&theme=material-palenight)](https://github.com/KyunghoAn/github-readme-activity-graph)
   
   <!--![KyungHo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyungHoAn&theme=gruvbox_light&show_icons=true)-->
    
-  </br>
-  </tr>
-</table>
-</br>
+
 
 ![KyungHo's](https://readme-stickers.vercel.app/api/kodeveloper?name=KyungHo)
 
-<!-- ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F-KyungHoAn&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
- -->
+<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=kyungHoAn&theme=material-palenight)](https://git.io/streak-stats)![KyungHo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyungHoAn&theme=material-palenight&show_icons=true)-->
+<!-- ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F-KyungHoAn&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)-->
 </div>
