@@ -1,11 +1,10 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=KyungHoAn😎&fontSize=70)
+<!--![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=KyungHoAn😎&fontSize=70)-->
 <!--<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Kyung%20Ho&fontSize=90" />-->
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=50&pause=1000&color=943ABA&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+KyungHo)](https://git.io/typing-svg)
 
   
-### Hi there 👋 
 #### I'm a student who studying Full-stack developer.🌱
 #### "Stay hungry, stay foolish."😄 I always think about it🐱‍👤.
 <br><br><br>
@@ -26,7 +25,13 @@
 <table>
   <tr>
     
-  [![KyungHo](https://github-readme-stats.vercel.app/api/top-langs/?username=kyungHoAn&layout=compact)](https://github.com/kyungHoAn/github-readme-stats)![KyungHo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyungHoAn&theme=gruvbox_light&show_icons=true)
+  [![KyungHo](https://github-readme-stats.vercel.app/api/top-langs/?username=kyungHoAn&layout=compact)](https://github.com/kyungHoAn/github-readme-stats)
+  
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=kyungHoAn&theme=material-palenight)](https://git.io/streak-stats)![KyungHo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyungHoAn&theme=material-palenight&show_icons=true)
+  
+  [![KyungHo's github activity graph](https://activity-graph.herokuapp.com/graph?username=KyunghoAn&theme=material-palenight)](https://github.com/KyunghoAn/github-readme-activity-graph)
+  
+  <!--![KyungHo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyungHoAn&theme=gruvbox_light&show_icons=true)-->
    
   </br>
   </tr>
